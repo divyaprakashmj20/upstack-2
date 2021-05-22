@@ -1,4 +1,4 @@
-1. # upstack-2
+1. upstack-2
 
 2. # getForTester() in the LabRequestController is implemented
 
